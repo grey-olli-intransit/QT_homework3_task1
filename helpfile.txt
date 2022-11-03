@@ -1,0 +1,3 @@
+this file is to be moved into qt resources.
+This is "help" file.
+
